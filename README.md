@@ -30,7 +30,7 @@ Open your terminal in the folder you want to clone the project
 
 ```sh
 # Clone this repo
-git clone https://github.com/LorranSutter/Perishables-supply-chain.git
+git clone https://github.com/Nas2020/Perishable-Supply-Chain.git
 
 # Go to the project folder
 cd Perishables-supply-chain
